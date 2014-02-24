@@ -3,6 +3,17 @@ test
 
 Jsut for private test purpose
 
+ARM的位置无关程序设计在Bootloader中的应用
+http://www.mcuol.com/tech/107/26052.htm
+
+http://wiki.csie.ncku.edu.tw/embedded/Lab19/stm32-prog.pdf
+
+
+
+
+
+
+
 Linux黑客车库创业：服务器操作系统CoreOS颠覆互联网
 http://www.csdn.net/article/2013-08-23/2816672-coreos-the-new-linux
 
