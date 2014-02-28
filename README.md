@@ -13,7 +13,8 @@ http://wiki.csie.ncku.edu.tw/embedded/Lab19/stm32-prog.pdf
 
 
 
-
+   
+   
 Linux黑客车库创业：服务器操作系统CoreOS颠覆互联网
 http://www.csdn.net/article/2013-08-23/2816672-coreos-the-new-linux
 
@@ -64,3 +65,6 @@ http://www.csdn.net/article/2013-12-03/2817687-best-websites-to-learn-mobile-dev
 
 国人当自强：两岸三地在线编程学习网站大搜罗
 http://www.csdn.net/article/2013-12-12/2817782-best-websites-to-learn-mobile-dev-in-china
+
+eoe创始人靳岩投身IT教育，创办新项目“极客学院”
+http://www.csdn.net/article/a/2014-02-27/15818058
