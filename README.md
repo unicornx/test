@@ -68,3 +68,7 @@ http://www.csdn.net/article/2013-12-12/2817782-best-websites-to-learn-mobile-dev
 
 eoe创始人靳岩投身IT教育，创办新项目“极客学院”
 http://www.csdn.net/article/a/2014-02-27/15818058
+
+一周消息树：程序员想找好工作？那就学好Linux！
+http://www.csdn.net/article/2014-02-28/2818576-Weekly-news
+
