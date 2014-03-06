@@ -12,10 +12,11 @@ http://www.mcuol.com/tech/107/26052.htm
 http://wiki.csie.ncku.edu.tw/embedded/Lab19/stm32-prog.pdf
 
 
+Linux网络编程必看书籍推荐 http://blog.csdn.net/simanstar/article/details/19937219  
 
 
-
-
+CSDN  
+====
    
    
 Linux黑客车库创业：服务器操作系统CoreOS颠覆互联网
