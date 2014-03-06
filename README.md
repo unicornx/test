@@ -15,6 +15,12 @@ http://wiki.csie.ncku.edu.tw/embedded/Lab19/stm32-prog.pdf
 Linux网络编程必看书籍推荐 http://blog.csdn.net/simanstar/article/details/19937219  
 
 
+
+合理的嵌入式开发学习路线 http://blog.csdn.net/simanstar/article/details/8806652  
+
+http://blog.csdn.net/simanstar/article/category/1691849/1  
+
+
 CSDN  
 ====
    
