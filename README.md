@@ -15,6 +15,7 @@ http://wiki.csie.ncku.edu.tw/embedded/Lab19/stm32-prog.pdf
 Linux网络编程必看书籍推荐 http://blog.csdn.net/simanstar/article/details/19937219  
 
 
+我书架上的LINUX书籍（建议学LINUX都看一下吧） http://blog.csdn.net/simanstar/article/details/8652564  
 
 合理的嵌入式开发学习路线 http://blog.csdn.net/simanstar/article/details/8806652  
 
