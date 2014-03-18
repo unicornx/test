@@ -83,3 +83,5 @@ http://www.csdn.net/article/a/2014-02-27/15818058
 一周消息树：程序员想找好工作？那就学好Linux！
 http://www.csdn.net/article/2014-02-28/2818576-Weekly-news
 
+论程序员的自我修炼  
+http://www.csdn.net/article/2014-03-17/2818802-good-enough-software-design  
