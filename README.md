@@ -1,27 +1,6 @@
 test
 ====
 
-http://www.embedu.org/courses/default.htm
-
-
-Jsut for private test purpose
-
-ARM的位置无关程序设计在Bootloader中的应用
-http://www.mcuol.com/tech/107/26052.htm
-
-http://wiki.csie.ncku.edu.tw/embedded/Lab19/stm32-prog.pdf
-
-
-Linux网络编程必看书籍推荐 http://blog.csdn.net/simanstar/article/details/19937219  
-
-
-我书架上的LINUX书籍（建议学LINUX都看一下吧） http://blog.csdn.net/simanstar/article/details/8652564  
-
-合理的嵌入式开发学习路线 http://blog.csdn.net/simanstar/article/details/8806652  
-
-http://blog.csdn.net/simanstar/article/category/1691849/1  
-
-
 CSDN  
 ====
    
@@ -85,3 +64,6 @@ http://www.csdn.net/article/2014-02-28/2818576-Weekly-news
 
 论程序员的自我修炼  
 http://www.csdn.net/article/2014-03-17/2818802-good-enough-software-design  
+
+小团队管理工具选择：不需要大而全  
+http://www.csdn.net/article/2014-03-25/2818962-Management-Tools
